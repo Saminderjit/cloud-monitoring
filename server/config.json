@@ -1,6 +1,11 @@
 {
     "bootstrap": false,
     "server": true,
+    "client_addr": "0.0.0.0",
+    "ports": {
+       "http": 8500,
+       "dns": -1
+    },
     "datacenter": "lab_profile_cs",
     "data_dir": "/var/consul",
     "encrypt": "UlDFQue6VBaU5kBdMVFqLw==",
