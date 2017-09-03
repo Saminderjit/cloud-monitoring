@@ -1,0 +1,1 @@
+{"service": {"name": "service-name", "tags": ["service tags"], "port": 8080, "check": {"script": "sudo service <service-name> status", "interval": "5s"}}}

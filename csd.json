@@ -1,1 +1,0 @@
-{"service": {"name": "csd", "tags": ["Cloud Services Daemon"], "port": 8080, "check": {"script": "sudo service csd status", "interval": "5s"}}}
