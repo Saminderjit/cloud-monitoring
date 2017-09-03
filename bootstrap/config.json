@@ -1,0 +1,9 @@
+{
+    "bootstrap": true,
+    "server": true,
+    "datacenter": "lab_profile_cs",
+    "data_dir": "/var/consul",
+    "encrypt": "UlDFQue6VBaU5kBdMVFqLw==",
+    "log_level": "INFO",
+    "enable_syslog": true
+}
